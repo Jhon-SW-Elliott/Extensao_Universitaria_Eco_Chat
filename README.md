@@ -98,14 +98,34 @@ Sinta-se à vontade para contribuir com sugestões, melhorias ou reportar proble
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+---
+
+✨ Desenvolvido por Marcelo Rodrigo Alexandre com dedicação à inovação tecnológica e responsabilidade socioambiental.
 
 ---
 
-✨ Desenvolvido por \[Seu Nome] com dedicação à inovação tecnológica e responsabilidade socioambiental.
+- **Demo**:  
+  <div align="center">
+    <img src="[https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/raw/main/images/orbitron.gif](https://github.com/Jhon-SW-Elliott/Extensao_Universitaria_Eco_Chat/blob/main/main/assets/Design%20sem%20nome%20(1).gif)" alt="Orbitron Demo" width="300" />
+  </div>
 
+  - **Demo**:  
+  <div align="center">
+    <img src="[https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/raw/main/images/orbitron.gif](https://github.com/Jhon-SW-Elliott/Extensao_Universitaria_Eco_Chat/blob/main/main/assets/Design%20sem%20nome%20(2).gif)" alt="Orbitron Demo" width="300" />
+  </div>
+
+  - **Demo**:  
+  <div align="center">
+    <img src="[https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/raw/main/images/orbitron.gif](https://github.com/Jhon-SW-Elliott/Extensao_Universitaria_Eco_Chat/blob/main/main/assets/Design%20sem%20nome%20(3).gif)" alt="Orbitron Demo" width="300" />
+  </div>
+
+  - **Demo**:  
+  <div align="center">
+    <img src="[https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/raw/main/images/orbitron.gif](https://github.com/Jhon-SW-Elliott/Extensao_Universitaria_Eco_Chat/blob/main/main/assets/Design%20sem%20nome%20(4).gif)" alt="Orbitron Demo" width="300" />
+  </div>
 
 ---
+
 <p xmlns:cc="http://creativecommons.org/ns#" >  <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> O Projeto Eco Chat está sob a licença Creative Commons e é protegido por todas as leis internacionais e nacionais relativas a direitos autorais, comerciais e industriais. Licença: Atribuição-NãoComercial-SemDerivações-CC BY-NC-ND 4.0 Internacional. </a></p>
 
 <p xmlns:cc="http://creativecommons.org/ns#" >  <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> The  Eco Chat is under the Creative Commons license and is protected by all international and national laws regarding copyright, commercial, and industrial rights. License: Attribution-NonCommercial-NoDerivatives-CC BY-NC-ND 4.0 International. </a></p>
