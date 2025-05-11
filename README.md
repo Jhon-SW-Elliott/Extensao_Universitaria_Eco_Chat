@@ -104,24 +104,29 @@ Sinta-se à vontade para contribuir com sugestões, melhorias ou reportar proble
 
 ---
 
-- **Demo**:  
-  <div align="center">
-      <img src="https://github.com/Jhon-SW-Elliott/Extensao_Universitaria_Eco_Chat/blob/main/main/assets/tema_dinamic_mobx.gif" alt="Orbitron Demo" width="300" />
-  </div>
+### 🖼️ Demos
 
-  - **Demo**:  
-    <div align="center"><img src="https://github.com/Jhon-SW-Elliott/Extensao_Universitaria_Eco_Chat/blob/main/main/assets/tema_dinamic.gif" alt="Orbitron Demo" width="300" />
-  </div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/Jhon-SW-Elliott/Extensao_Universitaria_Eco_Chat/blob/main/main/assets/tema_dinamic_mobx.gif" alt="Demo 1" width="200"/>
+      <br><sub><b>Tema Dinâmico com MobX</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Jhon-SW-Elliott/Extensao_Universitaria_Eco_Chat/blob/main/main/assets/tema_dinamic.gif" alt="Demo 2" width="200"/>
+      <br><sub><b>Tema Dinâmico</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Jhon-SW-Elliott/Extensao_Universitaria_Eco_Chat/blob/main/main/assets/eco_chat_bot.gif" alt="Demo 3" width="200"/>
+      <br><sub><b>Eco Chat Bot</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Jhon-SW-Elliott/Extensao_Universitaria_Eco_Chat/blob/main/main/assets/drawer.gif" alt="Demo 4" width="200"/>
+      <br><sub><b>Drawer Navigation</b></sub>
+    </td>
+  </tr>
+</table>
 
-  - **Demo**:  
-  <div align="center">
-    <img src="https://github.com/Jhon-SW-Elliott/Extensao_Universitaria_Eco_Chat/blob/main/main/assets/eco_chat_bot.gif" alt="Orbitron Demo" width="300" />
-  </div>
-
-  - **Demo**:  
-  <div align="center">
-    <img src="https://github.com/Jhon-SW-Elliott/Extensao_Universitaria_Eco_Chat/blob/main/main/assets/drawer.gif" alt="Orbitron Demo" width="300" />
-  </div>
 
 ---
 
