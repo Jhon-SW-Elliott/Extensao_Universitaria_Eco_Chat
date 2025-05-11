@@ -71,39 +71,6 @@ Ao desenvolver este projeto, demonstro:
 
 ---
 
-## 🚧 Status do Projeto
-
-Atualmente em **fase de testes**, com constante aprimoramento.
-
----
-
-## 🔗 Instalação e Uso
-
-Clone o repositório e instale as dependências:
-
-```bash
-git clone https://github.com/seu-usuario/chatbotx.git
-cd chatbotx
-yarn install
-yarn start
-```
-
----
-
-## 📢 Contribuição
-
-Sinta-se à vontade para contribuir com sugestões, melhorias ou reportar problemas através das [issues](https://github.com/seu-usuario/chatbotx/issues).
-
----
-
-## 📄 Licença
-
----
-
-✨ Desenvolvido por Marcelo Rodrigo Alexandre com dedicação à inovação tecnológica e responsabilidade socioambiental.
-
----
-
 ### 🖼️ Demos
 
 <table>
@@ -127,6 +94,14 @@ Sinta-se à vontade para contribuir com sugestões, melhorias ou reportar proble
   </tr>
 </table>
 
+---
+## 🚧 Status do Projeto
+
+Atualmente em **fase de testes**, com constante aprimoramento.
+
+---
+
+## 📄 Licença
 
 ---
 
