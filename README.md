@@ -106,22 +106,21 @@ Sinta-se à vontade para contribuir com sugestões, melhorias ou reportar proble
 
 - **Demo**:  
   <div align="center">
-    <img src="[https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/raw/main/images/orbitron.gif](https://github.com/Jhon-SW-Elliott/Extensao_Universitaria_Eco_Chat/blob/main/main/assets/Design%20sem%20nome%20(1).gif)" alt="Orbitron Demo" width="300" />
+      <img src="https://github.com/Jhon-SW-Elliott/Extensao_Universitaria_Eco_Chat/blob/main/main/assets/tema_dinamic_mobx.gif" alt="Orbitron Demo" width="300" />
+  </div>
+
+  - **Demo**:  
+    <div align="center"><img src="https://github.com/Jhon-SW-Elliott/Extensao_Universitaria_Eco_Chat/blob/main/main/assets/tema_dinamic.gif" alt="Orbitron Demo" width="300" />
   </div>
 
   - **Demo**:  
   <div align="center">
-    <img src="[https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/raw/main/images/orbitron.gif](https://github.com/Jhon-SW-Elliott/Extensao_Universitaria_Eco_Chat/blob/main/main/assets/Design%20sem%20nome%20(2).gif)" alt="Orbitron Demo" width="300" />
+    <img src="https://github.com/Jhon-SW-Elliott/Extensao_Universitaria_Eco_Chat/blob/main/main/assets/eco_chat_bot.gif" alt="Orbitron Demo" width="300" />
   </div>
 
   - **Demo**:  
   <div align="center">
-    <img src="[https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/raw/main/images/orbitron.gif](https://github.com/Jhon-SW-Elliott/Extensao_Universitaria_Eco_Chat/blob/main/main/assets/Design%20sem%20nome%20(3).gif)" alt="Orbitron Demo" width="300" />
-  </div>
-
-  - **Demo**:  
-  <div align="center">
-    <img src="[https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/raw/main/images/orbitron.gif](https://github.com/Jhon-SW-Elliott/Extensao_Universitaria_Eco_Chat/blob/main/main/assets/Design%20sem%20nome%20(4).gif)" alt="Orbitron Demo" width="300" />
+    <img src="https://github.com/Jhon-SW-Elliott/Extensao_Universitaria_Eco_Chat/blob/main/main/assets/drawer.gif" alt="Orbitron Demo" width="300" />
   </div>
 
 ---
