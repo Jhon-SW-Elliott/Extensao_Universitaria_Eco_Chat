@@ -1,4 +1,4 @@
-# ♻️ ChatBotX - Assistente de Reciclagem de Eletrônicos
+# ♻️ Eco Chat - Assistente de Reciclagem de Eletrônicos
 
 ## 🚀 Sobre o Projeto
 
