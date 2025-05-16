@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre o Projeto
 
-**ChatBotX** é um aplicativo inovador com chatbot integrado, desenvolvido para promover a **reciclagem de eletrônicos**, alinhado ao **Objetivo de Desenvolvimento Sustentável (ODS) 12 – Consumo e Produção Responsáveis**. O projeto fornece orientação clara e acessível à sociedade sobre tópicos essenciais relacionados à reciclagem de resíduos eletrônicos.
+**Eco Chat** é um aplicativo inovador com chatbot integrado, desenvolvido para promover a **reciclagem de eletrônicos**, alinhado ao **Objetivo de Desenvolvimento Sustentável (ODS) 12 – Consumo e Produção Responsáveis**. O projeto fornece orientação clara e acessível à sociedade sobre tópicos essenciais relacionados à reciclagem de resíduos eletrônicos.
 
 O app aborda:
 
